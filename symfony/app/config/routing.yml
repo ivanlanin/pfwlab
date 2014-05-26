@@ -1,0 +1,5 @@
+pfw_hello_world:
+    resource: "@PfwHelloWorldBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

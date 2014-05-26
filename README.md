@@ -1,6 +1,6 @@
 # pfwlab
 
-pfwlab is a project to document the learning process of PHP frameworks.
+pfwlab is a project to document the process of learning major PHP frameworks by APB Group team.
 
 ## Frameworks
 
@@ -10,11 +10,13 @@ pfwlab is a project to document the learning process of PHP frameworks.
 
 ## Goals
 
-- A hello world
-- Basic crud with sqlite
-- Authentication
-- Internationalization
-- Bootstrap
+- Pages:
+    - Hello world
+    - Basic crud with sqlite
+- Components:
+    - Authentication
+    - Internationalization
+    - Bootstrap http://getbootstrap.com
 
 ## Reference
 
