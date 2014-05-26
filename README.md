@@ -5,7 +5,7 @@ pfwlab is a project to document the learning process of PHP frameworks.
 ## Frameworks
 
 - Symfony http://symfony.com/
-- Lavarel http://laravel.com/
+- Laravel http://laravel.com/
 - Phalcon http://phalconphp.com/
 
 ## Goals
