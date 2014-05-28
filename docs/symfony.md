@@ -39,6 +39,20 @@
 - Instal aset ```php app/console assets:install```
 - Bersihkan cache: ```php app/console cache:clear -e prod```
 
+### Terjemahan
+
+http://symfony.com/doc/current/book/translation.html
+
+- Ubah `config/config.yml`
+
+```
+framework:
+    translator:      { fallback: "%locale%" }
+```
+
+- Ubah menu pada `index.html.twig` menjadi `{% trans %}Home{% endtrans %}`
+- Buat `Resources/translation/messages.id.xlf` dengan isi seperti pada contoh
+
 ## Catatan
 
 - Versi produksi menggunakan cache yang harus selalu diperbarui setiap ada perubahan ```php app/console cache:clear -e prod```
