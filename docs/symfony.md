@@ -28,3 +28,5 @@
 - Buka laman http://pfwlab.local/symfony/web/
 
 - Unduh Bootstrap http://getbootstrap.com/getting-started/#download
+
+- Membuat satu halaman menggunakan Symfony : http://symfony.com/doc/current/book/page_creation.html
