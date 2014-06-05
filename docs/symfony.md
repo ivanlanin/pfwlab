@@ -35,6 +35,7 @@
 
 - Unduh Bootstrap http://getbootstrap.com/getting-started/#download
 - Ganti `index.html.twig` dengan isi dari http://getbootstrap.com/examples/starter-template/
+- Membuat satu halaman menggunakan Symfony: http://symfony.com/doc/current/book/page_creation.html
 - http://symfony.com/doc/current/book/templating.html#linking-to-assets
 - Instal aset ```php app/console assets:install```
 - Bersihkan cache: ```php app/console cache:clear -e prod```
